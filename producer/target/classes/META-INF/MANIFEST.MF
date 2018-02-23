@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: producer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Suganya
+Implementation-Vendor-Id: com.sample.restful
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
